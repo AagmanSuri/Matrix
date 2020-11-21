@@ -32,7 +32,7 @@ void Display(struct Matrix m)
         {
             if(i==j)
             {
-                printf("%d ",m.A[i-1]);
+                printf("%d   ",m.A[i-1]);
             }
             else
             {
